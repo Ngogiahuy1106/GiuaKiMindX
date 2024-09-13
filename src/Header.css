@@ -1,0 +1,41 @@
+.HeaderContainer{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 20px;
+}
+
+.WebName{
+    font-weight: bold;
+    color: white;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 1000;
+    line-height: 32px;
+    letter-spacing: 0.07em;
+    text-align: left;
+
+}
+
+.PagesContainer{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    color: rgba(134, 134, 134, 1);
+    
+}
+.SearchBar
+{
+    background-color: rgba(55, 65, 81, 1);
+    color: rgba(134, 134, 134, 1);
+    border-radius: 37px;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    height: 6vh;
+}
+.Pages{
+    width: 150px;
+}

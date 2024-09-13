@@ -1,0 +1,30 @@
+.ExploreContainer
+{
+    width: 1170px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.ExploreText{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.ExploreSubText{
+    color: rgba(134, 134, 134, 1);
+    font-size: 32px;
+}
+.LargeText{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.subText{
+    color: white;
+    font-size: 15px;
+}
+.BriefContainer{
+    width: 40%;
+}
